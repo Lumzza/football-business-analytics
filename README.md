@@ -1,6 +1,11 @@
 # Football Business Analytics
 
-Reproducible ETL and descriptive analysis of the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer). This is a cleaned, independently runnable implementation of the university group project's data warehouse work. My contribution focused on XML extraction, data cleaning, and preparing the analytical tables. The original group notebook and presentation are retained locally outside this repository.
+Reproducible ETL and descriptive analysis of the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer). This is a cleaned, independently runnable implementation of the university group project's data warehouse work. My contribution focused on XML extraction, data cleaning, and preparing the analytical tables. The original presentation remains in the local source folder.
+
+## Notebooks
+
+- [analysis.ipynb](analysis.ipynb) is the runnable notebook for the revised ETL and analysis below.
+- [notebooks/original_group_project.ipynb](notebooks/original_group_project.ipynb) is an unchanged copy of the supplied university notebook. It retains its Google Colab Drive path, so it is an archive of the original work rather than the recommended local entry point.
 
 ## Questions
 
