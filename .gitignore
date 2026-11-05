@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.pyc
+*.sqlite
+*.sqlite3
+*.db
+*.zip
+.idea/
+data/
+outputs/
